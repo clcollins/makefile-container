@@ -1,3 +1,5 @@
+#This repository is archived and will no longer receive updates.
+
 # Using a Makefile to manage container-based projects
 
 The `make` utility, and it's related [Makefile](https://opensource.com/article/18/8/what-how-makefile), have been used to build software for a long time.
